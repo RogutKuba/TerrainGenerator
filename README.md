@@ -17,6 +17,6 @@ The terrains are stored in a MongoDB database, and are queried using Graphql.
 
 ![Saved Terrains](/savedTerrainlist.PNG)
 
-![Example_Saved_Terrain](/savedTerrainExaple.PNG)
+![Example_Saved_Terrain](/savedTerrainExample.PNG)
 
 --------------------------------------
